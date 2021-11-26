@@ -1,0 +1,2 @@
+#Enemy 
+![](https://lh4.googleusercontent.com/ZNaLrzMrf4O5U8JR-hTkN2SqChtjwHeh81yzvVV4MpbT32xVMR6KKpiMoQ4FoEJrUpQqOCMSDSjxSTx4h1MC36q9_oVUN79ilX4eEUYALJm4WDzqwentNlILCpTSFGCBFG3OVCrd)Guards [[Mt Aosta]]

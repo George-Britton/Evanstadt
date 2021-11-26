@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "3e8ccf46e46ff351",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f3f24dd3a3e0952",
+        "type": "leaf",
+        "dimension": 42.17948717948718,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Level 3/Ratfolk Warlock.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a0d71b67434ac7fc",
+        "type": "leaf",
+        "dimension": 57.820512820512825,
+        "pinned": true,
+        "state": {
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ecdde4f05f36a77",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c69763fa36ccfb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dffc9ec804a543b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a44f009ac78acef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec53ff3214644efe",
+    "type": "split",
+    "children": [
+      {
+        "id": "71c17d2cac4b1d1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23fa8c397dbb5d01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Level 3/Ratfolk Warlock.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cbb5e8913a34b30",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "189dec5752c82cf4",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0f3f24dd3a3e0952",
+  "lastOpenFiles": [
+    "Level 3/Ratfolk Warlock.md",
+    "Level 3/Sewer.md",
+    "Conditions.md",
+    "Level 3/Rats.md",
+    "Level 3/Spider.md",
+    "Level 3/Well.md",
+    "Level 3/Rats Hook.md",
+    "Level 3/Zetalé.md",
+    "Level 2/Kobolds Hook.md",
+    "Level 1/Evanstadt NPCs.md"
+  ]
+}

@@ -1,0 +1,2 @@
+#Location 
+The well of [[Zetalé]] is the entrance to the den of the [[Ratfolk Warlock|ratfolk warlock]], and as such, drinking the water will cause almost definite infection from the [[Disease|disease]]. Entering the well leads the party into the [[Sewer|sewer]], where the [[Spider|spider]] fight will take place.
