@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0f3f24dd3a3e0952",
+        "id": "409944d37d320702",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f3f24dd3a3e0952",
+  "active": "409944d37d320702",
   "lastOpenFiles": [
+    "Level 1/The Hidden Mimic.md",
+    "Level 1/Evanstadt Locations.md",
+    "Level 1/Evanstadt.md",
+    "The HiddenMimic.md",
+    "Level 1/Hippogriff.md",
     "Level 4/Smugglers.md",
     "Level 4/Port Arakoon NPCs.md",
     "Level 4/Slavers.md",
     "Level 4/Crown's guard.md",
-    "Level 4/Port Arakoon.md",
-    "Level 4/Port Arakoon Council.md",
-    "Level 4/Port Arakoon Locations.md",
-    "Level 5/Haunting Hook.md",
-    "Level 3/Disease.md",
-    "Level 3/Zetalé.md"
+    "Level 4/Port Arakoon.md"
   ]
 }
