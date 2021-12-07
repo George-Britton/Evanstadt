@@ -6,24 +6,9 @@
       {
         "id": "0f3f24dd3a3e0952",
         "type": "leaf",
-        "dimension": 42.17948717948718,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Level 3/Ratfolk Warlock.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a0d71b67434ac7fc",
-        "type": "leaf",
-        "dimension": 57.820512820512825,
-        "pinned": true,
-        "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -80,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level 3/Ratfolk Warlock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +76,7 @@
             }
           },
           {
-            "id": "4cbb5e8913a34b30",
+            "id": "c500b31bde5803ac",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -100,7 +84,7 @@
             }
           },
           {
-            "id": "189dec5752c82cf4",
+            "id": "dea02d1e27d64df5",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -116,15 +100,15 @@
   },
   "active": "0f3f24dd3a3e0952",
   "lastOpenFiles": [
-    "Level 3/Ratfolk Warlock.md",
-    "Level 3/Sewer.md",
-    "Conditions.md",
-    "Level 3/Rats.md",
-    "Level 3/Spider.md",
-    "Level 3/Well.md",
-    "Level 3/Rats Hook.md",
-    "Level 3/Zetalé.md",
-    "Level 2/Kobolds Hook.md",
-    "Level 1/Evanstadt NPCs.md"
+    "Level 4/Smugglers.md",
+    "Level 4/Port Arakoon NPCs.md",
+    "Level 4/Slavers.md",
+    "Level 4/Crown's guard.md",
+    "Level 4/Port Arakoon.md",
+    "Level 4/Port Arakoon Council.md",
+    "Level 4/Port Arakoon Locations.md",
+    "Level 5/Haunting Hook.md",
+    "Level 3/Disease.md",
+    "Level 3/Zetalé.md"
   ]
 }
